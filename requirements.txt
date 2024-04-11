@@ -1,0 +1,11 @@
+
+pyqrcode
+pypng
+
+pytube
+
+rembg
+
+art
+
+asciipixels
